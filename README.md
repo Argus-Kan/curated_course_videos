@@ -1,1 +1,1 @@
-# curated_course_videos
+A github repo for sharing/storing all the curated videos for virtual college.
